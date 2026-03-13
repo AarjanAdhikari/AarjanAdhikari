@@ -2,7 +2,7 @@
 
 <p align="center" style="margin-top:5px; font-size:18px;">
   <a href="https://aarjanadhikari.com.np" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/24/000000/link--v1.png" alt="Website Link" style="vertical-align:middle; margin-bottom:-3px;"/> aarjanadhikari.com.np
+    <img src="https://img.icons8.com/ios-filled/24/000000/link--v1.png" alt="Website Link" style="vertical-align:middle; position:relative; top:4px;"/> aarjanadhikari.com.np
   </a>
 </p>
 
@@ -16,18 +16,23 @@
 
 ## Tech Stack
 
-<p align="center">
+<p align="center" style="margin-top:20px;">
+  <!-- Programming / Languages -->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50"/>
   <img src="https://skillicons.dev/icons?i=cpp,c" alt="C/C++" height="50"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50"/>
   <img src="https://skillicons.dev/icons?i=py" alt="Python" height="50"/>
+
+  <!-- Libraries & Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" alt="React (LLM)" height="50"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50"/>
   <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Comp" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer" height="50"/>
+
+  <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/>
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50"/>
