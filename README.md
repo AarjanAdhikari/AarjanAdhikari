@@ -25,5 +25,14 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&hide=issues,prs,contribs" alt="Stats" height="185px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" height="185px" />
+<img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=tokyonight" alt="Aarjan's Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AarjanAdhikari&theme=tokyonight" alt="GitHub Streak" />
+
+
