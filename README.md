@@ -7,16 +7,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-CSS3-JavaScript-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%2F-C++-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-Python-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-(LLM)-cyan?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tailwind-Node.js-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Styled_Components-Framer-magenta?style=flat-square" />
-</p>
-
 ---
 
 ## About Me
