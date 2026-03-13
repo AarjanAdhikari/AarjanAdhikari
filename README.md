@@ -1,5 +1,4 @@
 <h1 align="center">I’m <strong>Aarjan Adhikari</strong></h1>
-<p align="center"></p>
 
 <p align="center">
   <a href="https://aarjanadhikari.com.np" target="_blank">
@@ -9,70 +8,68 @@
 
 ---
 
-<!-- ==== BADGES ==== -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20CSS3%20JS-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-%2347A248?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-Git%20%26%20GitHub-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-%23007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/OS-Linux-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-CSS3-JavaScript-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%2F-C++-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-Python-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-(LLM)-cyan?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tailwind-Node.js-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Styled_Components-Framer-magenta?style=flat-square" />
 </p>
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <p align="center">
-  A Computer Engineering student passionate about clean web design, responsive UI, and building real‑world experiences with modern tech.
+  Computer Engineering student passionate about building clean, responsive, and high-performance web applications and projects.
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,figma,git,github,vscode,linux,cpp,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,js,ts,py,react,tailwind,nodejs,styledcomponents,framer,git,github,vercel,wordpress,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari_&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari_&layout=compact&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari_&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=1fb6ff&hide_title=false&border_radius=20" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari_&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&border_radius=20" height="180px" />
 </p>
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🌐 Main Portfolio
+### Main Portfolio
 <p align="center">
   <a href="https://aarjanadhikari.com.np" target="_blank">
     <img src="https://raw.githubusercontent.com/AarjanAdhikari_/aarjan-portfolio-v2/main/docs/hero.png" alt="Portfolio Preview" width="80%">
   </a>
 </p>
 
-**A professional portfolio that showcases my personal brand, skills, and work.**  
-🔗 https://aarjanadhikari.com.np
+Professional portfolio showcasing my personal brand, projects, and skills.  
+Live site: [aarjanadhikari.com.np](https://aarjanadhikari.com.np)
 
 ---
 
-### 🛠 Featured Repositories
+### Featured Repositories
 
 | Project | Description |
 |---------|-------------|
-| 🌤 Weather App | Real‑time weather dashboard with API integration |
-| 🎬 Movie Website | Movie discovery UI with API and dynamic data |
-| 🌑 Nocturne VS Code Theme | Midnight aesthetic theme for VS Code |
-| 📄 Personal Website V1 | Classic portfolio first version |
+| Weather App | Real-time weather dashboard with API integration |
+| Movie Website | Movie discovery UI with API and dynamic content |
+| Nocturne VS Code Theme | Midnight aesthetic theme for VS Code |
+| Personal Website V1 | First version of personal portfolio |
 
 ---
 
-## 📬 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarjanadhikari" target="_blank">LinkedIn</a> •
@@ -83,7 +80,7 @@
 
 ---
 
-## 📝 License
+## License
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>
