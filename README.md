@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/>
 </p>
----
+
 <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=dark&count_private=true&hide_rank=true" alt="Aarjan's Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&theme=dark" alt="Top Langs" />
