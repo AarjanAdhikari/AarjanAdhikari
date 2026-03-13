@@ -25,24 +25,4 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/>
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <div style="background: linear-gradient(135deg, #0d0d0d, #0b1a40); padding: 20px; border-radius: 20px; display: inline-block; text-align: left; max-width: 400px;">
-    <p style="font-size:16px; margin: 8px 0;">
-      <span>★</span> <strong>Total Stars:</strong> 123
-    </p>
-    <p style="font-size:16px; margin: 8px 0;">
-      <span>⟳🕒</span> <strong>Total Commits (last year):</strong> 456
-    </p>
-    <p style="font-size:16px; margin: 8px 0;">
-      <span>🍴</span> <strong>Total PRs:</strong> 78
-    </p>
-    <p style="font-size:16px; margin: 8px 0;">
-      <span>❗</span> <strong>Total Issues:</strong> 12
-    </p>
-    <p style="font-size:16px; margin: 8px 0;">
-      <span>📦</span> <strong>Repositories contributed to (last year):</strong> 34
-    </p>
-  </div>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=tokyonight" alt="GitHub Stats Card" />
