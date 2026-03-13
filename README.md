@@ -12,7 +12,6 @@
   <!-- Libraries & Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" alt="React (LLM)" height="50"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/paint-palette.png" alt="Styled Components"/> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/four-direction.png" alt="Framer"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50"/>
 
