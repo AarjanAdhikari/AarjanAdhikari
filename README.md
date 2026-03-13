@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Aarjan Adhikari</strong></h1>
 <div align="center">
   
-# I build accessible, pixel-perfect digital experiences for the web and app.
+# <h3>I build accessible, pixel-perfect digital experiences for the web and app.</h3>
 </div>
 
 ## Tools and Languages
