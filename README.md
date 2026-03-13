@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/AarjanAdhikari_/aarjan-portfolio-v2/main/docs/banner.png" alt="Aarjan Adhikari" width="100%">
 </p>
 
-<h1 align="center">Hi, I’m <strong>Aarjan Adhikari</strong></h1>
-<p align="center">Computer Engineering Student — Web Developer — UI/UX Enthusiast</p>
+<h1 align="center">I’m <strong>Aarjan Adhikari</strong></h1>
+<p align="center"></p>
 
 <p align="center">
   <a href="https://aarjanadhikari.com.np" target="_blank">
-    📍 aarjanadhikari.com.np
+    aarjanadhikari.com.np
   </a>
 </p>
 
