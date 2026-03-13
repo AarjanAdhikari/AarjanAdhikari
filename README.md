@@ -1,6 +1,6 @@
 <h1 align="center">I’m <strong>Aarjan Adhikari</strong></h1>
 
-## Tech Stack
+## <img src="https://img.icons8.com/ios-filled/24/000000/link--v1.png" alt="Website Link" style="vertical-align:middle; position:relative; top:4px;"/>Tech Stack
 
 <p align="center" style="margin-top:20px;">
   <!-- Programming / Languages -->
