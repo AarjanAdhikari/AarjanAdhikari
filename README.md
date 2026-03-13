@@ -3,6 +3,7 @@
   
  <h3>I build accessible, pixel-perfect digital experiences for the web and app.</h3>
 </div>
+<hr />
 
 ## Tools and Languages
 
