@@ -1,8 +1,8 @@
 <h1 align="center">I’m <strong>Aarjan Adhikari</strong></h1>
 
 <p align="center">
-  <a href="https://aarjanadhikari.com.np" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" alt="Website Link"/> aarjanadhikari.com.np
+  <a href="https://aarjanadhikari.com.np" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/24/000000/paperclip.png" alt="Website Link"/> aarjanadhikari.com.np
   </a>
 </p>
 
@@ -18,45 +18,41 @@
 
 ## Tech Stack
 
-<table align="center">
-  <tr>
-    <th align="center">Programming Languages</th>
-    <th align="center">Libraries & Frameworks</th>
-    <th align="center">Tools & Platforms</th>
-  </tr>
-  <tr>
-    <td align="center">
-      HTML5<br>
-      CSS3<br>
-      C / C++<br>
-      JavaScript<br>
-      TypeScript<br>
-      Python
-    </td>
-    <td align="center">
-      React (LLM)<br>
-      Tailwind<br>
-      Node.js<br>
-      Styled Comp<br>
-      Framer
-    </td>
-    <td align="center">
-      Git<br>
-      GitHub<br>
-      Vercel<br>
-      WordPress<br>
-      Figma
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Programming Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="30"/> 
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="30"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c" alt="C/C++" height="30"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="30"/>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" height="30"/>
+</p>
+
+<p align="center">
+  <b>Libraries & Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=react" alt="React (LLM)" height="30"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="30"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="30"/>
+  <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" height="30"/>
+  <img src="https://skillicons.dev/icons?i=framer" alt="Framer" height="30"/>
+</p>
+
+<p align="center">
+  <b>Tools & Platforms</b><br>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="30"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="30"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="30"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="30"/>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari_&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=1fb6ff&hide_title=false&border_radius=20" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari_&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&border_radius=20" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari_&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0b0c10&text_color=ffffff&icon_color=1fb6ff&border_radius=20" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari_&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0c10&text_color=ffffff&border_radius=20" height="180px" />
 </p>
 
 ---
