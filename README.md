@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aarjanadhikari.com.np" target="_blank">
-    aarjanadhikari.com.np
+    <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" alt="Website Link"/> aarjanadhikari.com.np
   </a>
 </p>
 
@@ -16,11 +16,39 @@
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,js,ts,py,react,tailwind,nodejs,styledcomponents,framer,git,github,vercel,wordpress,figma" />
-</p>
+<table align="center">
+  <tr>
+    <th align="center">Programming Languages</th>
+    <th align="center">Libraries & Frameworks</th>
+    <th align="center">Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      HTML5<br>
+      CSS3<br>
+      C / C++<br>
+      JavaScript<br>
+      TypeScript<br>
+      Python
+    </td>
+    <td align="center">
+      React (LLM)<br>
+      Tailwind<br>
+      Node.js<br>
+      Styled Comp<br>
+      Framer
+    </td>
+    <td align="center">
+      Git<br>
+      GitHub<br>
+      Vercel<br>
+      WordPress<br>
+      Figma
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,7 +71,7 @@
 </p>
 
 Professional portfolio showcasing my personal brand, projects, and skills.  
-Live site: [aarjanadhikari.com.np](https://aarjanadhikari.com.np)
+Live site: <a href="https://aarjanadhikari.com.np">aarjanadhikari.com.np</a>
 
 ---
 
