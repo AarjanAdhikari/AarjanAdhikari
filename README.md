@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Aarjan Adhikari</strong></h1>
 
-## Tech Stack
+## Tools and Languages
 
 <p align="center" style="margin-top:20px;">
   <!-- Programming / Languages -->
