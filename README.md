@@ -18,10 +18,10 @@
 
 ## Tech Stack
 
-<div align="center" style="display:flex; justify-content:center; gap:60px; flex-wrap:wrap; margin-top:20px;">
+<div align="center" style="display:flex; justify-content:center; gap:80px; flex-wrap:wrap; margin-top:20px;">
 
 <!-- Column 1 -->
-<div style="text-align:center;">
+<div style="text-align:center; min-width:150px;">
   <h3>Programming Languages</h3>
   <p style="font-size:16px;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40"/> HTML5<br>
@@ -34,7 +34,7 @@
 </div>
 
 <!-- Column 2 -->
-<div style="text-align:center;">
+<div style="text-align:center; min-width:150px;">
   <h3>Libraries & Frameworks</h3>
   <p style="font-size:16px;">
     <img src="https://skillicons.dev/icons?i=react" alt="React (LLM)" height="40"/> React (LLM)<br>
@@ -46,7 +46,7 @@
 </div>
 
 <!-- Column 3 -->
-<div style="text-align:center;">
+<div style="text-align:center; min-width:150px;">
   <h3>Tools & Platforms</h3>
   <p style="font-size:16px;">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/> Git<br>
