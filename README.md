@@ -27,8 +27,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" alt="Aarjan's Stats" />
 
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&theme=tokyonight" alt="Top Langs" />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AarjanAdhikari&theme=tokyonight" alt="GitHub Streak" />
