@@ -28,9 +28,21 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Stars-★%20[Your_Stars]-1B1B2F?style=for-the-badge&logo=star&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Commits_2025-⟳%20🕒-1B1B2F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/PRs-🍴%20[Your_PRs]-1B1B2F?style=for-the-badge&logo=git-pull-request&logoColor=00FFEA"/>
-  <img src="https://img.shields.io/badge/Issues-❗%20[Your_Issues]-1B1B2F?style=for-the-badge&logo=issues&logoColor=FF4C4C"/>
-  <img src="https://img.shields.io/badge/Contributed-📦%20[Your_Repos]-1B1B2F?style=for-the-badge&logo=repository&logoColor=00BFFF"/>
+  <div style="background: linear-gradient(135deg, #0d0d0d, #0b1a40); padding: 20px; border-radius: 20px; display: inline-block; text-align: left; max-width: 400px;">
+    <p style="font-size:16px; margin: 8px 0;">
+      <span>★</span> <strong>Total Stars:</strong> 123
+    </p>
+    <p style="font-size:16px; margin: 8px 0;">
+      <span>⟳🕒</span> <strong>Total Commits (last year):</strong> 456
+    </p>
+    <p style="font-size:16px; margin: 8px 0;">
+      <span>🍴</span> <strong>Total PRs:</strong> 78
+    </p>
+    <p style="font-size:16px; margin: 8px 0;">
+      <span>❗</span> <strong>Total Issues:</strong> 12
+    </p>
+    <p style="font-size:16px; margin: 8px 0;">
+      <span>📦</span> <strong>Repositories contributed to (last year):</strong> 34
+    </p>
+  </div>
 </p>
