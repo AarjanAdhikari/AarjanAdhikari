@@ -3,7 +3,7 @@
   
  <h3>I build accessible, pixel-perfect digital experiences for the web and app.</h3>
 </div>
-#
+
 ## Tools and Languages
 
 <p align="center" style="margin-top:20px;">
