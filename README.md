@@ -24,3 +24,13 @@
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/>
 </p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Stars-★%20[Your_Stars]-1B1B2F?style=for-the-badge&logo=star&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Commits_2025-⟳%20🕒-1B1B2F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/PRs-🍴%20[Your_PRs]-1B1B2F?style=for-the-badge&logo=git-pull-request&logoColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/Issues-❗%20[Your_Issues]-1B1B2F?style=for-the-badge&logo=issues&logoColor=FF4C4C"/>
+  <img src="https://img.shields.io/badge/Contributed-📦%20[Your_Repos]-1B1B2F?style=for-the-badge&logo=repository&logoColor=00BFFF"/>
+</p>
