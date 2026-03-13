@@ -25,4 +25,10 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=tokyonight" alt="GitHub Stats Card" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&hide=issues,prs" alt="Aarjan's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
