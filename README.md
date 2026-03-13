@@ -1,19 +1,3 @@
-<h1 align="center">I’m <strong>Aarjan Adhikari</strong></h1>
-
-<p align="center" style="margin-top:5px; font-size:18px;">
-  <a href="https://aarjanadhikari.com.np" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-filled/24/000000/link--v1.png" alt="Website Link" style="vertical-align:middle; position:relative; top:4px;"/> aarjanadhikari.com.np
-  </a>
-</p>
-
-## About Me
-
-<p align="center" style="font-size:16px; margin-top:10px;">
-  Computer Engineering student passionate about building clean, responsive, and high-performance web applications and projects.
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center" style="margin-top:20px;">
@@ -27,10 +11,10 @@
 
   <!-- Libraries & Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" alt="React (LLM)" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/paint-palette.png" alt="Styled Components"/> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/four-direction.png" alt="Framer"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50"/>
-  <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Comp" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer" height="50"/>
 
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50"/>
