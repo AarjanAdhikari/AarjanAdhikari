@@ -1,3 +1,5 @@
+<h1 align="center">I’m <strong>Aarjan Adhikari</strong></h1>
+
 ## Tech Stack
 
 <p align="center" style="margin-top:20px;">
