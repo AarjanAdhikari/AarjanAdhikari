@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://aarjanadhikari.com.np" target="_blank" style="text-decoration:none; font-size:20px;">
-    <img src="https://img.icons8.com/ios-filled/30/000000/link--v1.png" alt="Website Link" style="vertical-align:middle;"/> ## aarjanadhikari.com.np
+    <img src="https://img.icons8.com/ios-filled/30/000000/link--v1.png" alt="Website Link" style="vertical-align:middle;"/> aarjanadhikari.com.np
   </a>
 </p>
 
