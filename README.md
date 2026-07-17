@@ -1,58 +1,101 @@
 <div align="center">
 
-<!-- MINIMALIST HEADER -->
-<h1 align="center" style="font-weight: 900; letter-spacing: 2px;">AARJAN ADHIKARI</h1>
-<p align="center"><i>Architecting Pixel-Perfect Digital Experiences.</i></p>
+<img src="./assets/hero.svg" width="100%" alt="Hero"/>
 
 <br/>
 
-<!-- MONOCHROME CONTACT PILLS -->
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&border=1&borderColor=ffffff" alt="Email" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&border=1&borderColor=ffffff" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/AuraLabs">
-    <img src="https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=github&logoColor=white&border=1&borderColor=ffffff" alt="Org" />
-  </a>
-</p>
+Building intelligent software for everyday life.
 
-<br/>
+<br/><br/>
 
-<hr style="border: 1px solid #333333; width: 50%;">
+<a href="https://github.com/AarjanAdhikari">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://aarjanadhikari.com.np">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge"/>
+</a>
 
-<!-- PURE B&W STATS MATRIX -->
-<h3 align="center" style="letter-spacing: 1px;">METRICS</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=999999&amp;icon_color=ffffff&amp;rank_icon=github" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarjanAdhikari&amp;hide_border=true&amp;background=000000&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=999999&amp;currStreakLabel=ffffff&amp;sideLabels=999999" alt="Streak" width="48%" />
-</p>
-
-<br/>
-
-<!-- MONOCHROME ACTIVITY GRAPH -->
-<h3 align="center" style="letter-spacing: 1px;">ACTIVITY MATRIX</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AarjanAdhikari&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&title_color=ffffff&area_color=111111" alt="Activity Graph" width="100%" />
-</p>
-
-<br/>
-
-<!-- THE GHOST SNAKE -->
-<p align="center">
-  <picture>
-    <img alt="Monochrome GitHub Snake" src="https://raw.githubusercontent.com/AarjanAdhikari/AarjanAdhikari/output/github-snake-dark.svg">
-  </picture>
-</p>
-
-<br/>
-<hr style="border: 1px solid #333333; width: 50%;">
-<p align="center" style="color: #666666; font-size: 12px;">// End of File</p>
+<a href="mailto:adhikari.aarjan.np@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge"/>
+</a>
 
 </div>
+
+---
+
+# Selected Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## Aether
+
+Ambient AI operating system focused on intelligent automation, productivity, and execution.
+
+</td>
+
+<td width="50%" valign="top">
+
+## Monex
+
+Modern currency platform featuring real-time exchange rates, historical trends, and a streamlined experience.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Stack
+
+<div align="center">
+
+Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Docker • Git • OpenAI • Gemini
+
+</div>
+
+---
+
+# GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AarjanAdhikari&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=888888"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bfbfbf&icon_color=ffffff"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bfbfbf"/>
+
+</div>
+
+---
+
+# Now
+
+- Building **Aether**
+- Improving **Monex**
+- Exploring AI-native software experiences
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://github.com/AarjanAdhikari">GitHub</a>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<a href="https://YOUR-WEBSITE.com">Website</a>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">Email</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%"/>
