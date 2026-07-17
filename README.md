@@ -56,21 +56,11 @@ Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Dock
 <img src="./assets/divider.svg" width="100%">
 </p>
 
-## GitHub Activity
+## Overview
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AarjanAdhikari&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=888888"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bfbfbf&icon_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarjanAdhikari&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bfbfbf"/>
-
-<br><br>
-
-<img height="170" src="https://streak-stats.demolab.com?user=AarjanAdhikari&theme=black-ice&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+<img src="./github-metrics.svg" width="100%">
 
 </p>
 
