@@ -92,4 +92,8 @@ Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Dock
 
 </p>
 
-<img src="./assets/footer.svg" width="100%"/>
+<p align="center">
+
+<img src="./assets/footer.svg" width="100%">
+
+</p>
