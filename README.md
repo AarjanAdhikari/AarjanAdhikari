@@ -29,8 +29,8 @@
 <h3 align="center" style="letter-spacing: 1px;">METRICS</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&rank_icon=github" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarjanAdhikari&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=999999&currStreakLabel=ffffff&sideLabels=999999" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AarjanAdhikari&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=999999&amp;icon_color=ffffff&amp;rank_icon=github" alt="Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarjanAdhikari&amp;hide_border=true&amp;background=000000&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;sideNums=999999&amp;currStreakLabel=ffffff&amp;sideLabels=999999" alt="Streak" width="48%" />
 </p>
 
 <br/>
