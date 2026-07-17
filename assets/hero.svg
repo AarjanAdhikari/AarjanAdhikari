@@ -1,1 +1,125 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" fill="none" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+
+<linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+<stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+
+<radialGradient id="light" cx="50%" cy="35%" r="60%">
+<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+<stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+
+<filter id="blur">
+<feGaussianBlur stdDeviation="60"/>
+</filter>
+
+<filter id="glass">
+<feGaussianBlur stdDeviation="18"/>
+</filter>
+
+</defs>
+
+<rect width="1600" height="700" fill="#000000"/>
+
+<g opacity="0.12">
+
+<path d="M0 80H1600"/>
+<path d="M0 160H1600"/>
+<path d="M0 240H1600"/>
+<path d="M0 320H1600"/>
+<path d="M0 400H1600"/>
+<path d="M0 480H1600"/>
+<path d="M0 560H1600"/>
+<path d="M0 640H1600"/>
+
+<path d="M80 0V700"/>
+<path d="M160 0V700"/>
+<path d="M240 0V700"/>
+<path d="M320 0V700"/>
+<path d="M400 0V700"/>
+<path d="M480 0V700"/>
+<path d="M560 0V700"/>
+<path d="M640 0V700"/>
+<path d="M720 0V700"/>
+<path d="M800 0V700"/>
+<path d="M880 0V700"/>
+<path d="M960 0V700"/>
+<path d="M1040 0V700"/>
+<path d="M1120 0V700"/>
+<path d="M1200 0V700"/>
+<path d="M1280 0V700"/>
+<path d="M1360 0V700"/>
+<path d="M1440 0V700"/>
+<path d="M1520 0V700"/>
+
+</g>
+
+<g filter="url(#blur)">
+
+<circle cx="1180" cy="170" r="140" fill="white" opacity="0.07">
+
+<animate attributeName="cy"
+values="170;210;170"
+dur="8s"
+repeatCount="indefinite"/>
+
+</circle>
+
+</g>
+
+<rect
+x="150"
+y="120"
+width="1300"
+height="460"
+rx="40"
+fill="white"
+fill-opacity="0.03"
+stroke="rgba(255,255,255,0.12)"
+filter="url(#glass)"/>
+
+<rect width="1600" height="700" fill="url(#light)"/>
+
+<text
+x="800"
+y="305"
+fill="white"
+font-size="86"
+font-family="Inter, Arial, Helvetica, sans-serif"
+font-weight="700"
+text-anchor="middle"
+letter-spacing="10">
+
+AARJAN
+
+</text>
+
+<text
+x="800"
+y="360"
+fill="#BDBDBD"
+font-size="24"
+font-family="Inter, Arial, Helvetica, sans-serif"
+text-anchor="middle">
+
+Building intelligent software for everyday life.
+
+</text>
+
+<text
+x="800"
+y="510"
+fill="#707070"
+font-size="16"
+font-family="Inter, Arial, Helvetica, sans-serif"
+text-anchor="middle"
+letter-spacing="6">
+
+AI • ENGINEERING • PRODUCT • DESIGN
+
+</text>
+
+</svg>
