@@ -77,7 +77,9 @@ Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Dock
 <p align="center">
 <img src="./assets/divider.svg" width="100%">
 </p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/AarjanAdhikari/AarjanAdhikari/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 ## Connect
 
 <p align="center">
