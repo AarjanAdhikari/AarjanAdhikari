@@ -8,25 +8,22 @@ Building intelligent software for everyday life.
 
 <br/><br/>
 
-<a href="https://github.com/AarjanAdhikari">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://aarjanadhikari.com.np">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge"/>
-</a>
-
-<a href="mailto:adhikari.aarjan.np@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge"/>
-</a>
+<a href="https://github.com/AarjanAdhikari">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://YOUR-WEBSITE.com">Website</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">Email</a>
 
 </div>
 
----
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
 
 # Selected Work
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -46,9 +43,12 @@ Modern currency platform featuring real-time exchange rates, historical trends, 
 </td>
 
 </tr>
+
 </table>
 
----
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
 
 # Stack
 
@@ -58,7 +58,9 @@ Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Dock
 
 </div>
 
----
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
 
 # GitHub
 
@@ -74,7 +76,9 @@ Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Dock
 
 </div>
 
----
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
 
 # Now
 
@@ -82,16 +86,18 @@ Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Dock
 - Improving **Monex**
 - Exploring AI-native software experiences
 
----
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
 
 # Connect
 
 <div align="center">
 
 <a href="https://github.com/AarjanAdhikari">GitHub</a>
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://YOUR-WEBSITE.com">Website</a>
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:YOUR_EMAIL">Email</a>
 
 </div>
