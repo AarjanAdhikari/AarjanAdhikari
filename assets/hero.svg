@@ -136,13 +136,19 @@ SOFTWARE ENGINEER • PRODUCT BUILDER
 x="800"
 y="320"
 fill="white"
-font-size="112"
+font-size="118"
 font-weight="700"
-font-family="Inter,Arial"
-letter-spacing="18"
+font-family="Inter,Arial,Helvetica,sans-serif"
+letter-spacing="14"
 text-anchor="middle">
 
 AARJAN
+
+<animate
+attributeName="opacity"
+values="0.96;1;0.96"
+dur="8s"
+repeatCount="indefinite"/>
 
 </text>
 
@@ -160,17 +166,78 @@ Building intelligent software for everyday life.
 
 </text>
 
+<circle
+cx="800"
+cy="430"
+r="1.5"
+fill="#FFFFFF">
+
+<animate
+attributeName="opacity"
+values="0.25;1;0.25"
+dur="3s"
+repeatCount="indefinite"/>
+
+</circle>
+    
 <!-- Divider -->
 
 <line
-x1="610"
+x1="630"
 y1="470"
-x2="990"
+x2="970"
 y2="470"
-stroke="#2B2B2B"/>
+stroke="#2F2F2F"
+stroke-width="1"/>
+
+<circle
+cx="800"
+cy="470"
+r="2"
+fill="#FFFFFF">
+
+<animate
+attributeName="r"
+values="2;3;2"
+dur="4s"
+repeatCount="indefinite"/>
+
+</circle>
 
 <!-- Bottom -->
+<text
+x="250"
+y="645"
+fill="#454545"
+font-size="13"
+font-family="Inter,Arial"
+letter-spacing="4">
 
+EST. 2026
+
+</text>
+
+<text
+x="1350"
+y="645"
+fill="#454545"
+font-size="13"
+text-anchor="end"
+font-family="Inter,Arial"
+letter-spacing="4">
+
+KATHMANDU · NP
+
+</text>
+
+<text
+x="800"
+y="560"
+...
+>
+AI SYSTEMS · PRODUCT ENGINEERING · DESIGN
+</text>
+    
 <text
 x="800"
 y="560"
