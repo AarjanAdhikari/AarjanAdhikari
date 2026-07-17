@@ -38,7 +38,11 @@
   
 </defs>
 
-<rect width="1600" height="760" fill="url(#bg)"/>
+<rect
+width="1600"
+height="760"
+fill="url(#edgeGlow)"
+opacity="0.18"/>
 
   <!-- Soft moving highlight -->
 
@@ -233,21 +237,13 @@ KATHMANDU · NP
 <text
 x="800"
 y="560"
-...
->
-AI SYSTEMS · PRODUCT ENGINEERING · DESIGN
-</text>
-    
-<text
-x="800"
-y="560"
 fill="#686868"
 font-size="18"
 font-family="Inter,Arial"
 letter-spacing="10"
 text-anchor="middle">
 
-AI · ENGINEERING · DESIGN · PRODUCT
+AI SYSTEMS · PRODUCT ENGINEERING · DESIGN
 
 </text>
 
