@@ -26,9 +26,37 @@
 <feGaussianBlur stdDeviation="90"/>
 </filter>
 
+<linearGradient id="edgeGlow" x1="0" y1="0" x2="1600" y2="760">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.035"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+
+<filter id="tinyBlur">
+    <feGaussianBlur stdDeviation="14"/>
+</filter>
+  
 </defs>
 
 <rect width="1600" height="760" fill="url(#bg)"/>
+
+  <!-- Soft moving highlight -->
+
+<ellipse
+cx="820"
+cy="210"
+rx="240"
+ry="90"
+fill="white"
+opacity="0.05"
+filter="url(#tinyBlur)">
+
+    <animate attributeName="cx"
+        values="760;840;760"
+        dur="12s"
+        repeatCount="indefinite"/>
+
+</ellipse>
 
 <!-- Ambient Light -->
 
@@ -69,6 +97,24 @@ fill="url(#glow1)"/>
 
 </g>
 
+<!-- Corner accents -->
+
+<g opacity="0.18">
+
+<line x1="90" y1="90" x2="180" y2="90" stroke="#FFFFFF"/>
+<line x1="90" y1="90" x2="90" y2="180" stroke="#FFFFFF"/>
+
+<line x1="1510" y1="90" x2="1420" y2="90" stroke="#FFFFFF"/>
+<line x1="1510" y1="90" x2="1510" y2="180" stroke="#FFFFFF"/>
+
+<line x1="90" y1="670" x2="180" y2="670" stroke="#FFFFFF"/>
+<line x1="90" y1="670" x2="90" y2="580" stroke="#FFFFFF"/>
+
+<line x1="1510" y1="670" x2="1420" y2="670" stroke="#FFFFFF"/>
+<line x1="1510" y1="670" x2="1510" y2="580" stroke="#FFFFFF"/>
+
+</g>
+  
 <!-- Small Label -->
 
 <text
@@ -138,4 +184,12 @@ AI · ENGINEERING · DESIGN · PRODUCT
 
 </text>
 
+<!-- Edge vignette -->
+
+<rect
+width="1600"
+height="760"
+fill="url(#edgeGlow)"
+opacity="0.75"/>
+  
 </svg>
