@@ -34,31 +34,9 @@ jobs:
           config_padding: 0
 
           # Black / White Style
+          config_theme: nightowl
           config_animations: no
           config_twemoji: no
-
-          extras_css: |
-            * {
-              color: #ffffff !important;
-            }
-
-            .bg {
-              fill: #000000 !important;
-            }
-
-            .box {
-              fill: #000000 !important;
-              stroke: #2a2a2a !important;
-            }
-
-            .text {
-              fill: #ffffff !important;
-            }
-
-            .text-sub {
-              fill: #aaaaaa !important;
-            }
-
 
           # Languages
           plugin_languages: yes
