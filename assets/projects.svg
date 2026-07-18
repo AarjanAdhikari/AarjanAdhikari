@@ -11,9 +11,19 @@
 <!-- Border scanning light -->
 
 <linearGradient id="borderGlow">
-<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-<stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.35"/>
-<stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+
+<stop offset="0%" 
+stop-color="#FFFFFF" 
+stop-opacity="0"/>
+
+<stop offset="50%" 
+stop-color="#FFFFFF" 
+stop-opacity="0.55"/>
+
+<stop offset="100%" 
+stop-color="#FFFFFF" 
+stop-opacity="0"/>
+
 </linearGradient>
 
 
@@ -65,10 +75,18 @@ repeatCount="indefinite"/>
 x="110"
 y="150"
 width="640"
-height="280"
-rx="22"
-fill="#070707"
-stroke="#2A2A2A"/>
+height="2"
+fill="url(#borderGlow)"
+opacity="0.9">
+
+<animate
+attributeName="x"
+from="110"
+to="750"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
 
 
 <!-- RIGHT CARD BASE -->
@@ -77,10 +95,18 @@ stroke="#2A2A2A"/>
 x="850"
 y="150"
 width="640"
-height="280"
-rx="22"
-fill="#070707"
-stroke="#2A2A2A"/>
+height="2"
+fill="url(#borderGlow)"
+opacity="0.9">
+
+<animate
+attributeName="x"
+from="850"
+to="1490"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
 
 
 
@@ -358,20 +384,6 @@ x2="720"
 y2="505"
 stroke="#2A2A2A"/>
 
-
-<circle
-cx="220"
-cy="505"
-r="3"
-fill="#FFFFFF">
-
-<animate
-attributeName="cx"
-values="220;720;220"
-dur="5s"
-repeatCount="indefinite"/>
-
-</circle>
 
 
 
