@@ -24,12 +24,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,tailwind,supabase,firebase,git,github,vscode,figma,androidstudio,cpp,html,css,c,pytorch,fastapi,nodejs" />
 
-</p>
-<p align="center">
-<img src="./assets/section-divider.svg" width="100%">
-</p>
-
-
 <p align="center">
 
 <img src="./github-metrics.svg" width="100%">
