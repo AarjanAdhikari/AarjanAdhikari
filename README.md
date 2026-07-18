@@ -35,7 +35,7 @@ Modern currency platform with real-time exchange rates and historical insights.
 
 **Stack**
 
-Next.js • TypeScript • APIs
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
 
 </td>
 
