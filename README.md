@@ -8,10 +8,6 @@
 
 </div>
 
-
-<br/>
-
-
 <p align="center">
 
 <a href="https://github.com/AarjanAdhikari?tab=repositories">
@@ -22,96 +18,43 @@
 
 </p>
 
-
-<br/>
-
-
 ## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,ts,react,nextjs,nodejs,fastapi,pytorch,tailwind,supabase,firebase,git,github,vscode,figma,androidstudio" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,tailwind,supabase,firebase,git,github,vscode,figma,androidstudio,cpp,html,css,c,pytorch,fastapi,nodejs" />
+
+<p align="center">
+
+<img src="./github-metrics.svg" width="100%">
+
+</p>
+
+<p align="center">
+<img src="./assets/section-divider.svg" width="100%">
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/AarjanAdhikari/AarjanAdhikari/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </p>
 
 
-<br/>
-
-
-## Mergy Stack
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vscode,vercel" />
-
-</p>
-
-
-<br/>
-
-
-<p align="center">
-
-<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics">
-
-</p>
-
-
-<br/>
-
-
-<p align="center">
-
-<img src="./assets/section-divider.svg" width="100%" alt="Divider">
-
-</p>
-
-
-<br/>
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/AarjanAdhikari/AarjanAdhikari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
-
-</p>
-
-
-<br/>
-
-
-<p align="center">
-
-<a href="https://github.com/AarjanAdhikari">
-GitHub
-</a>
-
+<a href="https://github.com/AarjanAdhikari">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-
-<a href="https://aarjanadhikari.com.np">
-Website
-</a>
-
+<a href="https://aarjanadhikari.com.np">Website</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/aarjanadhikari-">
-LinkedIn
-</a>
-
+<a href="https://linkedin.com/in/aarjanadhikari-">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-
-<a href="mailto:adhikari.aarjan.np@gmail.com">
-Email
-</a>
+<a href="mailto:adhikari.aarjan.np@gmail.com">Email</a>
 
 </p>
 
-
-<br/>
-
-
 <p align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Footer">
+<img src="./assets/footer.svg" width="100%">
 
 </p>
