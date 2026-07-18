@@ -127,7 +127,13 @@ stroke="#242424"/>
 
   <!-- MERGY TAGS -->
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vscode,vercel" />
+<image
+x="155"
+y="335"
+width="250"
+height="40"
+href="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vscode,vercel"
+/>
 
 <!-- MONEX TAGS -->
 
