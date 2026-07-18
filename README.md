@@ -56,6 +56,10 @@
 <img src="https://skillicons.dev/icons?i=vercel" width="35"/>
 </a>
 &nbsp;
+<a href="https://https://instagram.com/aarj4n.adhikari/">
+<img src="https://skillicons.dev/icons?i=instagram" width="35"/>
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/aarjanadhikari-">
 <img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
