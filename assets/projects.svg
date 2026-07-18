@@ -127,13 +127,56 @@ stroke="#242424"/>
 
   <!-- MERGY TAGS -->
 
+<!-- MERGY TECH ICONS -->
+
 <image
 x="155"
-y="335"
-width="250"
-height="40"
-href="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,github,vscode,vercel"
-/>
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=ts"/>
+
+<image
+x="215"
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=react"/>
+
+<image
+x="275"
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=nextjs"/>
+
+<image
+x="335"
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=tailwind"/>
+
+<image
+x="395"
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=github"/>
+
+<image
+x="455"
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=vscode"/>
+
+<image
+x="515"
+y="330"
+width="45"
+height="45"
+href="https://skillicons.dev/icons?i=vercel"/>
 
 <!-- MONEX TAGS -->
 
