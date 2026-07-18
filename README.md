@@ -20,13 +20,6 @@
 
 <p align="center">
 
-<img src="./assets/section-divider.svg" width="100%">
-
-</p>
-
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
 
 </p>
