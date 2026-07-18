@@ -207,9 +207,7 @@ repeatCount="indefinite"/>
 </circle>
 
 <!-- Bottom -->
-<a href="https://aarjanadhikari.com.np">
-  <img src="./assets/projects.svg" width="100%" alt="Projects">
-</a>
+<a href="https://aarjanadhikari.com.np" target="_blank">
 
 <text
 x="250"
