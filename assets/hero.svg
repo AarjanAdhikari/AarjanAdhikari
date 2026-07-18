@@ -1,9 +1,3 @@
-<animate
-attributeName="x"
-from="0"
-to="1600"
-dur="5s"
-repeatCount="indefinite"/>
 <svg width="1600" height="820" viewBox="0 0 1600 820" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
