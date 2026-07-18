@@ -6,32 +6,34 @@
 
 ## Selected Work
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## Mergy
-Mergy is a web platform that helps developers analyze GitHub repositories through repository analytics, pull request intelligence, and machine learning-driven insights.
+### MERGY
 
-**Stack**
-<p align="center">
+AI-powered collaboration platform focused on intelligent workflows and team productivity.
 
-<img src="https://skillicons.dev/icons?i=kotlin,ts,nextjs,react,supabase,postgres,docker,git" />
+<br>
 
-</p>
+**Tech**
+
+`Node.js` · `React` · `XGBoost` · `Machine Learning`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Monex
+### MONEX
 
-Modern currency platform with real-time exchange rates and historical insights.
+Modern currency platform with real-time exchange rates, historical insights, and a streamlined experience.
 
-**Stack**
+<br>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
+**Tech**
+
+`Next.js` · `TypeScript` · `APIs`
 
 </td>
 
@@ -39,7 +41,9 @@ Modern currency platform with real-time exchange rates and historical insights.
 </table>
 
 <p align="center">
-<img src="./assets/divider.svg" width="100%">
+
+<img src="./assets/section-divider.svg" width="100%">
+
 </p>
 
 ## Stack
