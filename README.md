@@ -6,39 +6,11 @@
 
 ## Selected Work
 
-<table width="100%">
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+<img src="./assets/projects.svg" width="100%" alt="Projects"/>
 
-### MERGY
-
-AI-powered collaboration platform focused on intelligent workflows and team productivity.
-
-<br>
-
-**Tech**
-
-`Node.js` · `React` · `XGBoost` · `Machine Learning`
-
-</td>
-
-<td width="50%" valign="top">
-
-### MONEX
-
-Modern currency platform with real-time exchange rates, historical insights, and a streamlined experience.
-
-<br>
-
-**Tech**
-
-`Next.js` · `TypeScript` · `APIs`
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
