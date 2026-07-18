@@ -55,7 +55,7 @@ Modern currency platform with real-time exchange rates, historical insights, and
 </p>
 
 <p align="center">
-<img src="./assets/divider.svg" width="100%">
+<img src="./assets/section-divider.svg" width="100%">
 </p>
 
 ## Overview
@@ -67,7 +67,7 @@ Modern currency platform with real-time exchange rates, historical insights, and
 </p>
 
 <p align="center">
-<img src="./assets/divider.svg" width="100%">
+<img src="./assets/section-divider.svg" width="100%">
 </p>
 
 <p align="center">
