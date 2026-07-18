@@ -40,6 +40,14 @@
 </tr>
 </table>
 
+<p align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=AarjanAdhikari&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
+/>
+
+</p>
+
 
 <p align="center">
 <a href="https://github.com/AarjanAdhikari">
