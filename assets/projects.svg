@@ -150,4 +150,13 @@ stroke="#242424"/>
 
 <rect x="1130" y="335" width="74" height="34" rx="17" fill="#101010" stroke="#2B2B2B"/>
 <text x="1167" y="357" fill="#FFFFFF" font-size="13" text-anchor="middle" font-family="Arial">APIs</text>
+
+  <!-- Bottom divider -->
+
+<line
+x1="110"
+y1="470"
+x2="1490"
+y2="470"
+stroke="#1F1F1F"/>
 </svg>
