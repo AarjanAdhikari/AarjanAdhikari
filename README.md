@@ -18,12 +18,13 @@
 
 </p>
 
+## Tech Stack
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,tailwind,supabase,firebase,git,github,vscode,figma,androidstudio,linux,dockerpytorch,cpp,html,css,c,cpp" />
 
 </p>
-
 <p align="center">
 <img src="./assets/section-divider.svg" width="100%">
 </p>
