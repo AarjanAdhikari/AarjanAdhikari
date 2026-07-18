@@ -20,8 +20,11 @@
 Ambient AI operating system focused on intelligent automation and execution.
 
 **Stack**
+<p align="center">
 
-Kotlin • AI • Supabase • PostgreSQL
+<img src="https://skillicons.dev/icons?i=kotlin,ts,nextjs,react,supabase,postgres,docker,git" />
+
+</p>
 
 </td>
 
