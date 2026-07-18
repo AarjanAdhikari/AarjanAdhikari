@@ -33,18 +33,29 @@ jobs:
 
           config_padding: 0
 
+          # Black / White Style
+          config_theme: nightowl
+          config_animations: no
+          config_twemoji: no
+
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
+          # Calendar
           plugin_isocalendar: yes
 
+          # Achievements
           plugin_achievements: yes
           plugin_achievements_threshold: C
 
+          # Stars
           plugin_stars: yes
 
+          # Follow-up
           plugin_followup: yes
 
+          # Lines
           plugin_lines: yes
