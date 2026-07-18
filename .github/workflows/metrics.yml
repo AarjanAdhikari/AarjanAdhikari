@@ -33,19 +33,32 @@ jobs:
 
           config_padding: 0
 
-          # Black / White Minimal Style
-          config_theme: transparent
+          # Black / White Style
           config_animations: no
           config_twemoji: no
 
-          config_colors: |
-            text:#FFFFFF
-            text-sub:#A0A0A0
-            bg:#000000
-            bg-sub:#080808
-            border:#2A2A2A
-            icon:#FFFFFF
-            title:#FFFFFF
+          extras_css: |
+            * {
+              color: #ffffff !important;
+            }
+
+            .bg {
+              fill: #000000 !important;
+            }
+
+            .box {
+              fill: #000000 !important;
+              stroke: #2a2a2a !important;
+            }
+
+            .text {
+              fill: #ffffff !important;
+            }
+
+            .text-sub {
+              fill: #aaaaaa !important;
+            }
+
 
           # Languages
           plugin_languages: yes
