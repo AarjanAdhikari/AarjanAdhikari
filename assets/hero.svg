@@ -2,85 +2,98 @@
 
 <defs>
 
-<linearGradient id="bg" x1="0" y1="0" x2="0" y2="760">
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="820">
 <stop offset="0%" stop-color="#050505"/>
 <stop offset="100%" stop-color="#000000"/>
 </linearGradient>
 
-<radialGradient id="glow1" cx="50%" cy="25%" r="70%">
-<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+
+<radialGradient id="glow1">
+<stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.12"/>
 <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 
+
 <linearGradient id="lineFade">
-
 <stop offset="0%" stop-color="#000000"/>
-
 <stop offset="50%" stop-color="#353535"/>
-
 <stop offset="100%" stop-color="#000000"/>
-
 </linearGradient>
 
-<filter id="softBlur">
+
+<linearGradient id="sweep">
+<stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="50%" stop-color="#ffffff" stop-opacity="0.08"/>
+<stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+
+
+<filter id="blur">
 <feGaussianBlur stdDeviation="90"/>
 </filter>
 
-<linearGradient id="edgeGlow" x1="0" y1="0" x2="1600" y2="760">
-    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
-    <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.035"/>
-    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-</linearGradient>
 
-<filter id="tinyBlur">
-    <feGaussianBlur stdDeviation="14"/>
+<filter id="smallBlur">
+<feGaussianBlur stdDeviation="20"/>
 </filter>
-  
+
+
 </defs>
 
-    <rect
-width="1600"
-height="820"
-fill="url(#bg)"/>
 
 
+<!-- BACKGROUND -->
+
+<rect width="1600" height="820" fill="url(#bg)"/>
+
+
+
+<!-- MOVING LIGHT SWEEP -->
 
 <rect
-width="1600"
-height="760"
-fill="url(#edgeGlow)"
-opacity="0.12"/>
+x="-500"
+y="0"
+width="400"
+height="820"
+fill="url(#sweep)"
+opacity="0.4">
 
-  <!-- Soft moving highlight -->
+<animate
+attributeName="x"
+from="-500"
+to="1700"
+dur="8s"
+repeatCount="indefinite"/>
 
-<ellipse
-cx="820"
-cy="210"
-rx="240"
-ry="90"
+</rect>
+
+
+
+<!-- AMBIENT GLOW -->
+
+<circle
+cx="800"
+cy="180"
+r="260"
 fill="white"
-opacity="0.05"
-filter="url(#tinyBlur)">
+opacity="0.06"
+filter="url(#blur)">
 
-</ellipse>
-
-<!-- Ambient Light -->
-
-<circle cx="800" cy="180" r="260"
-fill="white"
-opacity="0.08"
-filter="url(#softBlur)">
-
-<animate attributeName="opacity"
-values="0.04;0.08;0.04"
-dur="10s"
+<animate
+attributeName="opacity"
+values="0.04;0.1;0.04"
+dur="8s"
 repeatCount="indefinite"/>
 
 </circle>
 
-<!-- Grid -->
+
+
+<!-- GRID -->
 
 <g opacity="0.06">
+
+<g>
 
 <path d="M0 100H1600" stroke="url(#lineFade)"/>
 <path d="M0 200H1600" stroke="url(#lineFade)"/>
@@ -97,11 +110,32 @@ repeatCount="indefinite"/>
 <path d="M1200 0V760" stroke="url(#lineFade)"/>
 <path d="M1400 0V760" stroke="url(#lineFade)"/>
 
+
+<animateTransform
+attributeName="transform"
+type="translate"
+from="0 0"
+to="0 15"
+dur="12s"
+repeatCount="indefinite"/>
+
 </g>
 
-<!-- Corner accents -->
+</g>
+
+
+
+
+<!-- CORNER ACCENTS -->
 
 <g opacity="0.18">
+
+<animate
+attributeName="opacity"
+values="0.12;0.3;0.12"
+dur="5s"
+repeatCount="indefinite"/>
+
 
 <line x1="90" y1="90" x2="180" y2="90" stroke="#FFFFFF"/>
 <line x1="90" y1="90" x2="90" y2="180" stroke="#FFFFFF"/>
@@ -116,8 +150,11 @@ repeatCount="indefinite"/>
 <line x1="1510" y1="670" x2="1510" y2="580" stroke="#FFFFFF"/>
 
 </g>
-  
-<!-- Small Label -->
+
+
+
+
+<!-- LABEL -->
 
 <text
 x="800"
@@ -132,7 +169,10 @@ AI &amp; ML • SOFTWARE DEVELOPMENT
 
 </text>
 
-<!-- Title -->
+
+
+
+<!-- NAME -->
 
 <text
 x="800"
@@ -140,7 +180,7 @@ y="320"
 fill="white"
 font-size="118"
 font-weight="700"
-font-family="Inter,Arial,Helvetica,sans-serif"
+font-family="Inter,Arial"
 letter-spacing="14"
 text-anchor="middle">
 
@@ -148,80 +188,100 @@ AARJAN
 
 <animate
 attributeName="opacity"
-values="0.96;1;0.96"
-dur="8s"
+values="0.8;1;0.8"
+dur="6s"
 repeatCount="indefinite"/>
 
 </text>
 
-<!-- Subtitle -->
+
+
+
+<!-- SUBTITLE -->
 
 <text
 x="800"
 y="390"
 fill="#A5A5A5"
 font-size="28"
-font-family="Arial, Helvetica, sans-serif"
+font-family="Arial"
 text-anchor="middle">
 
 Building AI/ML and software products from idea to execution.
 
+<animate
+attributeName="opacity"
+from="0"
+to="1"
+dur="3s"
+fill="freeze"/>
+
 </text>
+
+
+
+
+<!-- CENTER DOT -->
 
 <circle
 cx="800"
 cy="480"
-r="1.5"
-fill="#FFFFFF">
+r="2"
+fill="white">
 
 <animate
-attributeName="opacity"
-values="0.25;1;0.25"
-dur="3s"
+attributeName="r"
+values="2;6;2"
+dur="4s"
 repeatCount="indefinite"/>
 
 </circle>
-    
-<!-- Divider -->
+
+
+
+
+<!-- DIVIDER -->
 
 <line
 x1="630"
 y1="520"
 x2="970"
 y2="520"
-stroke="#2F2F2F"
-stroke-width="1"/>
+stroke="#2F2F2F"/>
+
 
 <circle
 cx="800"
 cy="520"
 r="2"
-fill="#FFFFFF">
+fill="white">
 
 <animate
 attributeName="r"
-values="2;3;2"
-dur="4s"
+values="2;4;2"
+dur="3s"
 repeatCount="indefinite"/>
 
 </circle>
 
-<!-- Bottom -->
-<a href="https://aarjanadhikari.com.np" target="_blank">
+
+
+
+
+<!-- FOOT -->
 
 <text
 x="250"
 y="700"
 fill="#454545"
 font-size="13"
-font-family="Arial, Helvetica, sans-serif"
+font-family="Arial"
 letter-spacing="4">
 
 aarjanadhikari.com.np
 
 </text>
 
-</a>
 
 <text
 x="1350"
@@ -229,19 +289,21 @@ y="700"
 fill="#454545"
 font-size="13"
 text-anchor="end"
-font-family="Inter,Arial"
+font-family="Inter"
 letter-spacing="4">
 
 KATHMANDU · NP
 
 </text>
 
+
+
 <text
 x="800"
 y="610"
 fill="#686868"
 font-size="18"
-font-family="Inter,Arial"
+font-family="Inter"
 letter-spacing="10"
 text-anchor="middle">
 
@@ -249,40 +311,40 @@ AI · ENGINEERING · PRODUCTS
 
 </text>
 
-<!-- Edge vignette -->
 
-<rect
-width="1600"
-height="760"
-fill="url(#edgeGlow)"
-opacity="0.12"/>
 
-    <!-- Hero Divider -->
 
-<g opacity="1">
+<!-- BOTTOM DIVIDER -->
 
 <line
 x1="220"
 y1="735"
 x2="720"
 y2="735"
-stroke="#2A2A2A"
-stroke-width="1"/>
+stroke="#2A2A2A"/>
+
 
 <circle
 cx="800"
 cy="735"
 r="3"
-fill="#FFFFFF"/>
+fill="#FFFFFF">
+
+<animate
+attributeName="opacity"
+values="0.2;1;0.2"
+dur="3s"
+repeatCount="indefinite"/>
+
+</circle>
+
 
 <line
 x1="880"
 y1="735"
 x2="1380"
 y2="735"
-stroke="#2A2A2A"
-stroke-width="1"/>
+stroke="#2A2A2A"/>
 
-</g>
-  
+
 </svg>
