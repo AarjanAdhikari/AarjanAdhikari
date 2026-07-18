@@ -49,11 +49,11 @@
 
 <a href="https://github.com/AarjanAdhikari">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://YOUR-WEBSITE.COM">Website</a>
+<a href="https://aarjanadhikari.com.np">Website</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+<a href="https://linkedin.com/in/aarjanadhikari-">LinkedIn</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="mailto:adhikari.aarjan.np@gmail.com">Email</a>
 
 </p>
 
