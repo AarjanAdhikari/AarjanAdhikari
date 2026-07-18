@@ -33,19 +33,10 @@ jobs:
 
           config_padding: 0
 
-          # Black & White Theme
-          config_theme: github-dark
+          # Black / White Style
+          config_theme: nightowl
+          config_animations: no
           config_twemoji: no
-          config_octicon: yes
-
-          config_colors: |
-            text:#ffffff
-            text-sub:#aaaaaa
-            bg:#000000
-            bg-sub:#111111
-            border:#333333
-            icon:#ffffff
-            title:#ffffff
 
           # Languages
           plugin_languages: yes
