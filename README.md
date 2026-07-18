@@ -49,13 +49,27 @@
 
 <p align="center">
 
-<a href="https://github.com/AarjanAdhikari">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://aarjanadhikari.com.np">Website</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/aarjanadhikari-">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:adhikari.aarjan.np@gmail.com">Email</a>
+<a href="https://github.com/AarjanAdhikari">
+<img src="https://skillicons.dev/icons?i=github" width="40">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://aarjanadhikari.com.np">
+<img src="https://skillicons.dev/icons?i=vercel" width="40">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/aarjanadhikari-">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:adhikari.aarjan.np@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40">
+</a>
 
 </p>
 
