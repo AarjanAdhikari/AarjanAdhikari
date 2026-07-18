@@ -47,35 +47,23 @@
 </table>
 
 
-<table align="center">
-<tr>
-
-<td>
+<p align="center">
 <a href="https://github.com/AarjanAdhikari">
-<img src="https://skillicons.dev/icons?i=github" width="35">
+<img src="https://skillicons.dev/icons?i=github" width="35"/>
 </a>
-</td>
-
-<td>
+&nbsp;
 <a href="https://aarjanadhikari.com.np">
-<img src="https://skillicons.dev/icons?i=vercel" width="35">
+<img src="https://skillicons.dev/icons?i=vercel" width="35"/>
 </a>
-</td>
-
-<td>
+&nbsp;
 <a href="https://linkedin.com/in/aarjanadhikari-">
-<img src="https://skillicons.dev/icons?i=linkedin" width="35">
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
-</td>
-
-<td>
+&nbsp;
 <a href="mailto:adhikari.aarjan.np@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="35">
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
