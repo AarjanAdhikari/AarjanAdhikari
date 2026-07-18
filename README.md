@@ -4,8 +4,6 @@
 
 </div>
 
-## Selected Work
-
 <p align="center">
 
 <img src="./assets/projects.svg" width="100%" alt="Projects"/>
@@ -18,7 +16,6 @@
 
 </p>
 
-## Stack
 
 <p align="center">
 
@@ -30,7 +27,6 @@
 <img src="./assets/section-divider.svg" width="100%">
 </p>
 
-## Overview
 
 <p align="center">
 
@@ -48,7 +44,6 @@
 
 </p>
 
-## Connect
 
 <p align="center">
 
