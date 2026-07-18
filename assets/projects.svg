@@ -158,4 +158,32 @@ y1="470"
 x2="1490"
 y2="470"
 stroke="#1F1F1F"/>
+
+  <!-- Bottom divider -->
+
+<g opacity="1">
+
+<line
+x1="220"
+y1="505"
+x2="720"
+y2="505"
+stroke="#2A2A2A"
+stroke-width="1"/>
+
+<circle
+cx="800"
+cy="505"
+r="3"
+fill="#FFFFFF"/>
+
+<line
+x1="880"
+y1="505"
+x2="1380"
+y2="505"
+stroke="#2A2A2A"
+stroke-width="1"/>
+
+</g>
 </svg>
