@@ -18,18 +18,11 @@ jobs:
           github_user_name: AarjanAdhikari
 
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFFFFF&color_dots=%23000000,%231A1A1A,%23333333,%23666666,%23999999
 
-          color_snake: "#FFFFFF"
-
-          color_dots: |
-            #000000
-            #1A1A1A
-            #333333
-            #666666
-            #999999
-            #FFFFFF
+      - name: Add black background
+        run: |
+          sed -i 's/<svg/<svg style="background:#000000"/' dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
