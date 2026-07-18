@@ -38,6 +38,15 @@ jobs:
           config_twemoji: no
           config_octicon: yes
 
+          config_colors: |
+            text:#ffffff
+            text-sub:#aaaaaa
+            bg:#000000
+            bg-sub:#111111
+            border:#333333
+            icon:#ffffff
+            title:#ffffff
+
           # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
