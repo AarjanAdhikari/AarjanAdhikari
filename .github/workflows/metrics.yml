@@ -33,10 +33,19 @@ jobs:
 
           config_padding: 0
 
-          # Black / White Style
-          config_theme: nightowl
+          # Black / White Minimal Style
+          config_theme: transparent
           config_animations: no
           config_twemoji: no
+
+          config_colors: |
+            text:#FFFFFF
+            text-sub:#A0A0A0
+            bg:#000000
+            bg-sub:#080808
+            border:#2A2A2A
+            icon:#FFFFFF
+            title:#FFFFFF
 
           # Languages
           plugin_languages: yes
