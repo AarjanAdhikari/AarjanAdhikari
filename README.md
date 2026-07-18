@@ -15,9 +15,8 @@
 
 <td width="50%" valign="top">
 
-### Aether
-
-Ambient AI operating system focused on intelligent automation and execution.
+## Mergy
+Mergy is a web platform that helps developers analyze GitHub repositories through repository analytics, pull request intelligence, and machine learning-driven insights.
 
 **Stack**
 <p align="center">
@@ -51,7 +50,7 @@ Next.js • TypeScript • APIs
 
 <p align="center">
 
-Kotlin • TypeScript • Next.js • React • Supabase • PostgreSQL • Docker • Git • OpenAI • Gemini
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react" />
 
 </p>
 
