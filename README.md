@@ -32,9 +32,19 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AarjanAdhikari/AarjanAdhikari/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="./assets/section-divider.svg" width="100%">
 
 </p>
+
+<table>
+<tr>
+<td bgcolor="#000000">
+
+<img src="https://raw.githubusercontent.com/AarjanAdhikari/AarjanAdhikari/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</td>
+</tr>
+</table>
 
 
 <p align="center">
