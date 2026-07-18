@@ -22,7 +22,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,tailwind,supabase,firebase,git,github,vscode,figma,androidstudio,cpp,html,css,c,pytorch,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,tailwind,supabase,firebase,git,github,vscode,vercel,figma,androidstudio,cpp,html,css,c,pytorch,fastapi,nodejs" />
 
 <p align="center">
 
