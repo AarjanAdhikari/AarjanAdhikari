@@ -10,7 +10,11 @@
 
 <p align="center">
 
+<a href="https://github.com/AarjanAdhikari?tab=repositories">
+
 <img src="./assets/projects.svg" width="100%" alt="Projects"/>
+
+</a>
 
 </p>
 
