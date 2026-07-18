@@ -219,7 +219,8 @@ letter-spacing="4"
 style="cursor:pointer;">
 
 <p align="center">
-  <a href="https://aarjanadhikari.com.np">
+  <a href="https://yourwebsite.com">
+    <img src="./assets/projects.svg" width="100%" alt="Projects">
   </a>
 </p>
 
