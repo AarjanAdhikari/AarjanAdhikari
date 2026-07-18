@@ -159,7 +159,7 @@ font-size="28"
 font-family="Inter,Arial"
 text-anchor="middle">
 
-I build accessible, pixel-perfect digital experiences for the web and app.
+Building AI and ML products from idea to execution.
 
 </text>
 
@@ -210,7 +210,7 @@ font-size="13"
 font-family="Inter,Arial"
 letter-spacing="4">
 
-(https://aarjanadhikari.com.np)
+aarjanadhikari.com.np
 
 </text>
 
@@ -246,6 +246,6 @@ AI · ENGINEERING · PRODUCTS
 width="1600"
 height="760"
 fill="url(#edgeGlow)"
-opacity="0.75"/>
+opacity="0.12"/>
   
 </svg>
