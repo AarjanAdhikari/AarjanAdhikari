@@ -39,22 +39,26 @@ ACCENT = "#22d3ee"
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Focus", "AI • ML • Software Development"),
-    ("kv", "Prev", "Founding Engineer @ Turgon AI"),
-    ("kv", "Also", "SDE + Instructor @ AccioJob (YC'21)"),
-    ("kv", "Edu", "B.Tech CS, IIIT Delhi '24"),
-    ("gap",),
-    ("sec", "Stack"),
-    ("kv", "Frontend", "React, Next.js, TypeScript, R3F"),
-    ("kv", "Backend", "Node, NestJS, GraphQL, Django"),
-    ("kv", "AI / ML", "LangChain, Vercel AI SDK, OpenAI"),
-    ("kv", "Cloud", "AWS, Docker, Vercel, Prisma"),
-    ("gap",),
-    ("sec", "Highlights"),
-    ("bul", "Taught 100,000+ developers to code"),
-    ("bul", "2 books · 100k+ podcast streams"),
-]
 
+    ("kv", "Role", "Computer Engineering Student"),
+    ("kv", "Focus", "AI • ML • Software Engineering"),
+    ("kv", "Location", "Kathmandu, Nepal"),
+
+    ("gap",),
+
+    ("sec", "Stack"),
+    ("kv", "Languages", "Python, C++, TypeScript"),
+    ("kv", "Frontend", "React, Next.js, Tailwind CSS"),
+    ("kv", "Backend", "Node.js, Supabase"),
+    ("kv", "AI / ML", "PyTorch, scikit-learn, Claude"),
+
+    ("gap",),
+
+    ("sec", "Projects"),
+    ("bul", "Mergy · AI Repository Analytics"),
+    ("bul", "Monex · Currency Intelligence Platform"),
+    ("bul", "Nocturne · VS Code Theme"),
+]
 
 def esc(s):
     return html.escape(s)
@@ -94,7 +98,7 @@ for i, row in enumerate(ROWS):
         continue
     if kind == "host":
         inner = (f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
-                 f'<tspan fill="{GREEN}">avi</tspan><tspan fill="{MUTED}">@</tspan>'
+                 f'<tspan fill="{GREEN}">aarjan</tspan><tspan fill="{MUTED}">@</tspan>'
                  f'<tspan fill="{ACCENT}">github</tspan></text>'
                  f'<line x1="{KEY_X+96}" y1="{y-4:.1f}" x2="{W-PAD}" y2="{y-4:.1f}" '
                  f'stroke="{FRAME}" stroke-opacity="0.8"/>')
