@@ -32,14 +32,14 @@ GREEN = "#3fb950"
 ACCENT = "#22d3ee"
 
 # content model: tuples describing each row
-# ("host",)                    -> "avi@github" + rule
+# ("host",)                    -> "aarjan@github" + rule
 # ("kv", key, value)           -> orange key + light value
 # ("sec", title)               -> blue "— title —" rule
 # ("bul", text)                -> green dot + light text
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Now", "Software Engineer @ Dock.us"),
+    ("kv", "Focus", "AI • ML • Software Development"),
     ("kv", "Prev", "Founding Engineer @ Turgon AI"),
     ("kv", "Also", "SDE + Instructor @ AccioJob (YC'21)"),
     ("kv", "Edu", "B.Tech CS, IIIT Delhi '24"),
@@ -84,7 +84,7 @@ parts = [
 for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
     parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
 parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">avi@github: ~$ neofetch</text>')
+             f'text-anchor="middle">aarjan@github: ~$ neofetch</text>')
 
 y = TITLEBAR_H + 30
 for i, row in enumerate(ROWS):
