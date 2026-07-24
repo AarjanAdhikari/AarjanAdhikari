@@ -21,12 +21,12 @@
 
 <h3><code>aarjanadhikari@github ~ $ ./links.sh</code></h3>
 
-<p><b>Computer Engineering Student · AI/ML Enthusiast · Full-Stack Builder</b></p>
+<p><b>Computer Engineering Student · AI/ML · Software Development</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Aarjan.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aarjan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aarjanadhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarjanadhikari/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Aarjan.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aarjanadhikari.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aarjanadhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarjanadhikari-)
 [![GitHub](https://img.shields.io/badge/GitHub-AarjanAdhikari-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AarjanAdhikari)
-[![Contact](https://img.shields.io/badge/Contact-Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@aarjan.dev)
+[![Contact](https://img.shields.io/badge/Contact-Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikari.aarjan.np@gmail.com)
 
 <br>
 
