@@ -30,7 +30,7 @@
 
 <p><b>Computer Engineering Student · AI & Machine Learning Enthusiast · Software Development</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aarjanadhikari.com.np)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aarjanadhikari.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aarjanadhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarjanadhikari-)
 [![GitHub](https://img.shields.io/badge/GitHub-AarjanAdhikari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AarjanAdhikari)
 
