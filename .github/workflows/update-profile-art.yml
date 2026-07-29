@@ -1,39 +1,36 @@
-name: Update profile art
+name: Update Profile Art
 
-# Refreshes the contribution graph SVG daily from real data.
-# Runs daily, plus whenever you push to main, plus on-demand.
-
-"on":
-  schedule:
-    - cron: "17 6 * * *"   # ~06:17 UTC every day
-  workflow_dispatch: {}
+on:
   push:
-    branches: [main]
-
-permissions:
-  contents: write
+    paths:
+      - 'source-photo.jpg'
+  workflow_dispatch:
 
 jobs:
-  heatmap:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
 
-      - name: Scrape real contribution data (no auth needed)
-        run: python scripts/fetch_contributions.py
+      - name: Generate ASCII Art
+        run: |
+          python scripts/prep_photo.py
+          python scripts/make_ascii_svg.py
 
-      - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py AarjanAdhikari contrib-heatmap.svg
-
-      - name: Commit updated art
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+      - name: Commit and Push Generated ASCII SVG
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add source-prepped.png aarjan-ascii.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-generate ASCII face from source-photo.jpg" && git push)
