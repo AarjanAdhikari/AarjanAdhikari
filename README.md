@@ -28,8 +28,6 @@
 
 ## Tech Stack
 
-### Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
@@ -38,53 +36,20 @@
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="40" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" />
-</p>
-
-### Frontend
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub API" height="40" />
-</p>
-
-### Databases & Services
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="40" />
-</p>
-
-### AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Machine Learning / Python" height="40" />
-  <img src="https://skillicons.dev/icons?i=ollama" alt="Ollama" height="40" />
-</p>
-
-### DevOps & Tools
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
-</p>
-
-### APIs & Integration
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub API" height="40" />
+  <img src="https://skillicons.dev/icons?i=ollama" alt="Ollama" height="40" />
 </p>
 
 
